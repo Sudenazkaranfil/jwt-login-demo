@@ -21,7 +21,7 @@
         <java.version>21</java.version>
     </properties>
 
-    <!-- Repository ekledik, Maven Central garanti olsun -->
+    <!-- Repository, Maven Central garantisi -->
     <repositories>
         <repository>
             <id>central</id>
