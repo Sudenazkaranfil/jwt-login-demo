@@ -62,14 +62,25 @@ Password: 1234
 
 ## 📂Dosya Yapısı
 src/
- └─ main/
+
+  └─ main/
+  
      ├─ java/org/example/
+     
      │    ├─ controller/
+     
      │    ├─ model/
+     
      │    ├─ repository/
+     
      │    ├─ security/
+     
      │    ├─ service/
+     
      │    └─ util/
+     
      └─ resources/
+     
           └─ application.properties
+          
 
